@@ -22,3 +22,4 @@ Benefits: Easy to simulate and understand No hardware required Great introductio
 How It Works: The user starts the simulation and opens the Serial Monitor. Sending the value "1" turns the LED ON. Sending the value "0" turns the LED OFF. The Serial Monitor simulates a mobile app sending commands via Bluetooth or Wi-Fi.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/0e98c76d-3b07-43a1-8d10-29a2931a60dd)
